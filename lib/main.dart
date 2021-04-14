@@ -38,9 +38,9 @@ class MyAppState extends State<MyApp> {
       'questionText': 'what\'s your name?',
       'answers': [
         'roopak',
-        'alpha',
-        'beta',
-        'gamma',
+        'deepak',
+        'manjusha',
+        'bedekar',
       ]
     },
   ];
